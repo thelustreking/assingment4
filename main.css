@@ -1,0 +1,65 @@
+.biog{
+
+    
+    float: left;
+    color: white;
+   
+    width: 250px;
+    border: 2px solid red;
+    border-radius: 10px;
+    margin: 10px 20px 40px 30px;
+
+    font-family: 'Galada', cursive;
+    padding: 10px;
+    background-color:purple;
+    font-size: 11px;
+
+
+}
+
+.spann{
+
+    color: darkorange;
+}
+
+.high{
+
+    color: lime;
+
+}
+
+.ido{
+
+    color: skyblue;
+}
+
+#background{
+
+    background-color: azure;
+}
+
+#middel{
+
+    text-align: center;
+
+    font-size:30px;
+    color: blue;
+    font-family: 'Lobster', cursive;
+}
+
+img{
+
+    width: 70%;
+    height:  70%;
+}
+
+p{
+    color:;
+    font-family: 'Mina', sans-serif;
+    size: 10px;
+}
+
+button{
+
+    color: red;
+}
